@@ -1,0 +1,32 @@
+.container {
+    position: relative;
+    top: 100px;
+    left: 300px;
+}
+
+#box1 {
+    position: absolute;
+    background-color: #D98880;
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    left: 10px;
+}
+
+#box2 {
+    position: absolute;
+    background-color: #2E86C1;
+    width: 100px;
+    height: 100px;
+    top: 60px;
+    left: 60px;
+}
+
+#box3 {
+    position: absolute;
+    background-color: #2ECC71;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+    left: 110px;
+}
